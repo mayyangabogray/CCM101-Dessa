@@ -18,7 +18,7 @@ This laboratory focuses on understanding and blueprinting core cloud computing i
 ## Tools Used
 - **KillerCoda:** Interactive browser-based Linux environment for server investigation.
 - **GitHub:** Version control and repository documentation platform.
-- **Diagramming Tool (Excalidraw/Draw.io):** Visual architecture design tool for creating the infrastructure blueprint.
+- **Diagramming Tool (Canva):** Visual architecture design tool for creating the infrastructure blueprint.
 
 ## Linux Commands Executed
 - `uname -r` (identifying the kernel version)
